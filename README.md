@@ -9,7 +9,7 @@ A complete relational database implementation for managing library books, member
 | File | Description |
 |------|-------------|
 | `library_management.sql` | Full SQL: schema, data, queries, views, transactions |
-| `DBMS_Project_Report.docx` | Written project report with ER diagram explanation |
+| `Library Management System.pdf` | Project report|
 | `README.md` | This file |
 
 ---
